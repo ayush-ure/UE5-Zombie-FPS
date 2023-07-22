@@ -72,6 +72,9 @@
 				"C:/Unreal Engine 5/Unreal Projects/ZombieGame/Content/_Main/Widgets/MainMenu.uasset",
 				"C:/Unreal Engine 5/Unreal Projects/ZombieGame/Content/_Main/Widgets/overlay.uasset",
 				"C:/Unreal Engine 5/Unreal Projects/ZombieGame/Content/_Main/Widgets/pistol.uasset",
+				"C:/Unreal Engine 5/Unreal Projects/ZombieGame/Content/_Main/Widgets/Crosshair_HUD.uasset",
+				"C:/Unreal Engine 5/Unreal Projects/ZombieGame/Content/_Main/Widgets/BPI_CrosshairUI.uasset",
+				"C:/Unreal Engine 5/Unreal Projects/ZombieGame/Content/_Main/Blueprints/NewWidgetBlueprint.uasset",
 				"C:/Unreal Engine 5/Unreal Projects/ZombieGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
